@@ -1,5 +1,5 @@
 # Calculadora-de-IMC
-Calculadora de índice de massa corporal (IMC)
+Calculadora de índice de massa corporal (IMC) feita em Python puro
 
 
 # Formula usada: 
